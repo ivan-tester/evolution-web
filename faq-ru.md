@@ -4,7 +4,7 @@
 
 Игра скопирована с настольной игры "Эволюция: Происхождение Видов" http://rightgames.ru/games/evolyuciya
 
-Адрес оф. сервера: https://evo2.herokuapp.com
+Адрес оф. сервера: https://evolution-web.onrender.com/
 
 Список изменений: https://github.com/ivan-work/evolution-web/blob/master/changelog.md
 
@@ -21,7 +21,7 @@
 
 ### Иногда всех выкидывает и сервер перезагружается
 
-Хероку перезагружает его каждые 24 часа + от 0 до 216 минут: https://devcenter.heroku.com/articles/dynos#automatic-dyno-restarts
+Onrender перезагружает его каждые 24 часа
 
 ### Я нашел ошибку!
 
